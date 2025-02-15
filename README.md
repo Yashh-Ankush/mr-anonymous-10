@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Ankush</h1>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=mr-anonymous-10&label=Profile%20views&color=0e75b6&style=flat" alt="mr-anonymous-10" /> 
+  <img src="https://komarev.com/ghpvc/?username=yashh-ankush&label=Profile%20views&color=0e75b6&style=flat" alt="yashh-ankush" /> 
 </p>
 
 
@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_ankush) [![LinkedIn](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/mr-anonymous-10/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yash_ankush) [![LinkedIn](https://img.shields.io/badge/%40-Linkedin-blue)](https://www.linkedin.com/in/yashh-ankush/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_yash_ankush) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashankush20@gmail.com) 
 
@@ -25,7 +25,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mr-anonymous-10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yashh-ankush&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 # 📊 GitHub Stats:
